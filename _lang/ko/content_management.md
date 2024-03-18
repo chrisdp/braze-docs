@@ -1,5 +1,5 @@
 ---
-nav_title: 콘텐츠 관리
+nav_title: This is a test
 article: Content Management
 description: "브레이즈 문서에서 콘텐츠가 관리되는 방식에 대한 개요입니다."
 page_order: 2 
